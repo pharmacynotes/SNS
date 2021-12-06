@@ -46,14 +46,14 @@ a {
   color: #FFE400;
   padding: 2px;
   background-color: #272727;
-  text-align:center;
+  text-align: center;
 }
 
 .back {
-  color:white;
+  color: white;
 }
-.btn {
 
+.btn {
   text-align: center;
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -92,18 +92,17 @@ a {
 .page-heading {
   margin: 0;
 }
+
 .page-no {
   background-color: #2bc4ed;
   padding: 10px;
   width: 50%;
-  display:inline-block;
-
+  display: inline-block;
 }
 
 .page-img {
   background-color: #AC3B61;
   padding: 5px;
-
 }
 
 .page-download {
