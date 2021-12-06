@@ -107,7 +107,7 @@ a {
 }
 
 .page-download {
-  display: inline;
+  display: none;
 }
 
 .page-download-btn {
