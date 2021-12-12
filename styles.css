@@ -52,6 +52,13 @@ a {
   bottom: 0;
 }
 
+.bottom-table {
+  color: #FFE400;
+  padding: 2px;
+  background-color: #272727;
+  text-align: center;
+}
+
 .back {
   color: white;
 }
