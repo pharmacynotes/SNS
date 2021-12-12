@@ -47,6 +47,9 @@ a {
   padding: 2px;
   background-color: #272727;
   text-align: center;
+  width: -webkit-fill-available;
+  position: absolute;
+  bottom: 0;
 }
 
 .back {
