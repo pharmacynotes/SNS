@@ -37,6 +37,10 @@ a {
   color: #AC3B61;
 }
 
+.bg-black {
+  background-color: #000000;
+}
+
 .time-table {
   color: #0591A5;
   background-color: #85CDCA;
@@ -112,6 +116,21 @@ a {
 .page-download-btn {
   color: white;
   margin: 0;
+}
+
+.pdf-padding {
+  width: auto;
+  padding: 10px;
+  text-align: center;
+  /* background-color:#EE4C7C; */
+}
+
+.paragraph {
+  border:solid 2px;
+  border-radius: 10%;
+  color: #000000;
+  text-align: center;
+
 }
 
 img {
