@@ -38,7 +38,7 @@ a {
 }
 
 .bg-black {
-  background-color: #000000;
+  background-color: #747474;
 }
 
 .time-table {
@@ -128,7 +128,7 @@ a {
 .paragraph {
   border:solid 2px;
   border-radius: 8%;
-  color: #747474;
+  color: #000000;
   text-align: center;
 
 }
