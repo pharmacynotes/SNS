@@ -87,6 +87,11 @@ a {
   text-decoration: none;
 }
 
+.display-block {
+  display: block;
+  align-items: center;
+}
+
 .page {
   background-color: #EE4C7C;
   padding: 20px;
@@ -131,6 +136,14 @@ a {
   color: #000000;
   text-align: center;
 
+}
+
+.text-success {
+  color: #dc3545;
+}
+
+.text-white {
+  color: #ffffff;
 }
 
 img {
