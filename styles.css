@@ -12,10 +12,14 @@ a {
   text-align: center;
   width: 50px;
   height: auto;
-  -webkit-animation: NAME-YOUR-ANIMATION 1s infinite;  /* Safari 4+ */
-  -moz-animation: NAME-YOUR-ANIMATION 1s infinite;  /* Fx 5+ */
-  -o-animation: NAME-YOUR-ANIMATION 1s infinite;  /* Opera 12+ */
-  animation: NAME-YOUR-ANIMATION 1s infinite;  /* IE 10+, Fx 29+ */
+  -webkit-animation: NAME-YOUR-ANIMATION 1s infinite;
+  /* Safari 4+ */
+  -moz-animation: NAME-YOUR-ANIMATION 1s infinite;
+  /* Fx 5+ */
+  -o-animation: NAME-YOUR-ANIMATION 1s infinite;
+  /* Opera 12+ */
+  animation: NAME-YOUR-ANIMATION 1s infinite;
+  /* IE 10+, Fx 29+ */
 }
 
 @-webkit-keyframes NAME-YOUR-ANIMATION {
@@ -23,6 +27,7 @@ a {
     background-color: rgb(117, 209, 63);
     border: 3px solid #e50000;
   }
+
   50%, 100% {
     background-color: #e50000;
     border: 3px solid rgb(117, 209, 63);
@@ -64,7 +69,7 @@ a {
 }
 
 .syllabus {
-  color: rgb(0,0,0);
+  color: rgb(0, 0, 0);
   background-color: #85CDCA;
 }
 
@@ -99,7 +104,6 @@ a {
 
 .footer {
   margin: 1px;
-
 }
 
 .footer-link {
@@ -138,6 +142,12 @@ a {
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ed);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ed);
   text-decoration: none;
+}
+
+.insta-logo {
+  width: 5%;
+  height: 5%;
+  border-radius: 10%;
 }
 
 .page {
