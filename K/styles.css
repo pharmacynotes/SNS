@@ -8,26 +8,6 @@ a {
   text-decoration: none;
 }
 
-.font-m-b {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 400;
-  font-weight: 900;
-
-}
-
-.text-c-dark {
-  font-style: normal;
-  color: black;
-  font-size: 1rem;
-}
-.donate {
-  text-align:center;
-  color:red;
-  font-weight: bold;
-
-}
-style=""
-
 .terabox {
   text-align: center;
   width: 50px;
@@ -130,12 +110,6 @@ style=""
   color: #11999E;
 }
 
-
-.img-donate {
-  width: auto;
-  height: auto;
-}
-
 .back {
   color: white;
 }
@@ -170,23 +144,7 @@ style=""
   text-decoration: none;
 }
 
-.donate-img {
-  display: block;
- margin-left: auto;
- margin-right: auto;
-
-  text-align: center;
-  width: 90%;
-  height: auto;
-  border-radius: 10%;
-}
-
 .insta-logo {
-  display: block;
- margin-left: auto;
- margin-right: auto;
-
-  text-align: center;
   width: 15%;
   height: 15%;
   border-radius: 10%;
